@@ -42,6 +42,24 @@ Desta forma, algumas de suas funções são:
 1. Controlar o acesso a funções e informações;
 1. Tornar inelegíveis os dados compartilhados por usuários através da encriptação.
 
+## Importância
+   Diante da Quarta Revolução Industrial, o cenário atual evidencia a intensa valorização dos dados no mercado, sejam eles de indivíduos ou de organizações, pois fornecem insights valiosos para planejamentos personalizados, inovação e eficiência operacional. Com o aumento do interesse nesses ativos, criminosos adaptam-se rapidamente e intensificam golpes virtuais com o intuito de roubá-los.
+   Nesse contexto, tornou-se imprescindível a criação de uma área dedicada à proteção tanto de civis quanto de corporações contra ataques cibernéticos, chamada Segurança da Informação.
+   Posto isso, vale explorar a importância e riscos atrelados aos dados individuais e organizacionais:
+   
+*Dados Individuais:*
+- _Importância:_ dados pessoais permitem às empresas a criação de produtos e experiências customizadas, aumentando a satisfação do cliente e a competitividade. Ademais, com os dados é possível a criação de um perfil virtual do consumidor, possibilitando uma previsão de seu comportamento e aumentando o vínculo consumidor-empresa.
+
+ - _Risco:_ quando vazados, tornam os usuários vulneráveis a roubo de identidade, fraudes financeiras, dentre outros. 
+
+ - _Segurança:_ regulamentações como a LGPD (Lei Geral de Proteção de Dados) no Brasil exigem que as empresas protejam esses dados além de obter o consentimento dos usuários para coletá-los.
+   
+*Dados Organizacionais:*
+ - _Importância:_ dados operacionais, financeiros e estratégicos melhoram a eficiência de processos e aumentam a resposta às demandas do mercado, possibilitando previsão de vendas por exemplo.
+ - _Risco:_ roubo de segredos industriais, dados de clientes, documentos financeiros e outros que podem causar prejuízos econômicos e na reputação da empresa. 
+ - _Segurança:_ instrução dos/as colaboradoras sobre ataques cibernéticos, desenvolvimento e fortalecimento de um plano de ação contra estes ataques, investir em Segurança da Informação.
+
+
 ## Bibliografia
 - [blog.iopay Governança da InfoSec](https://blog.iopay.com.br/pagamentos-online/governanca-da-seguranca-cibernetica-para-empresas-de-grande-porte-o-que-e-e-como-funciona)
 - [tecnoblog o que é segurança da informação](https://tecnoblog.net/responde/o-que-e-seguranca-da-informacao/)
