@@ -13,15 +13,20 @@
     - Redes de Computadores
     - Sistemas Operacionais
     - Conceitos de Cibersegurança
- 4. Linguagens de Programação e Automação
+ 3. Linguagens de Programação e Automação
     - Python
     - Bash e PowerShell
     - C e C++
     - JavaScript
+ 4. Livros e Anotações Pessoais
+  - Livros:
+    a. Linux Basics for Hackers
+    b. The Web Application Hacker’s Handbook
+    c. Hacking: The Art of Exploitation (2ª edição) de Jon Erickson
+    d. 
  5. Conhecimentos Específicos em Segurança
  6. Preparação para a CompTIA Security+
- 7. Bibliografias
-    - Livros
+ 7. Cursos e Sites
     - Sites
     - Cursos
 
