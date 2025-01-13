@@ -19,11 +19,11 @@
     - C e C++
     - JavaScript
  4. Livros e Anotações Pessoais
-  - Livros:
-    a. Linux Basics for Hackers
-    b. The Web Application Hacker’s Handbook
-    c. Hacking: The Art of Exploitation (2ª edição) de Jon Erickson
-    d. 
+  #### Livros:
+  -   Linux Basics for Hackers
+  -   The Web Application Hacker’s Handbook
+  -   Hacking: The Art of Exploitation (2ª edição) de Jon Erickson
+  -   
  5. Conhecimentos Específicos em Segurança
  6. Preparação para a CompTIA Security+
  7. Cursos e Sites
