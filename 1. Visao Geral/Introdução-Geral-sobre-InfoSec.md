@@ -63,6 +63,12 @@ Desta forma, algumas de suas funções são:
  - _Segurança:_ instrução dos/as colaboradoras sobre ataques cibernéticos, desenvolvimento e fortalecimento de um plano de ação contra estes ataques, investir em Segurança da Informação.
 
 ## Pilares da Segurança da Informação
+ A “Tríade CID” é um modelo que aborda os pilares da Segurança da Informação, sendo usada para identificar vulnerabilidades e criar soluções, além disso estas três letras significam Confidencialidade, Integridade e Disponibilidade.
+
+A confidencialidade, integridade e disponibilidade são imprescindíveis para a operação de um negócio e o modelo CID segmenta essas ideias em pontos focais separados, a sua diferenciação é útil na orientação de equipes de segurança à medida que eles compreendem melhor suas especificidades e são capazes de identificar diversas formas pelas quais se pode abordar cada obstáculo.
+
+[](TriadeCID.png)
+
 
 ## Principais Ameaças à Segurança da Informação
 
