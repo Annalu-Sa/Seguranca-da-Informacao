@@ -84,7 +84,11 @@ Posto isto, para combater violações de confidencialidade, a empresa pode class
 A disponibilidade diz que os dados perdem seu valor quando não estão disponíveis para os colaboradores e/ou clientes usarem. Dessa forma, os sistemas, redes e aplicativos devem funcionar como previstos. Ademais, os indivíduos com acesso a informações específicas devem conseguir acessar estes dados quando for necessário e com um tempo aceitável a fim de não atrasar as operações da organização.
 Assim, desastres naturais são um dos maiores obstáculos da disponibilidade, pois não é previsível e pode impedir que os usuários cheguem ao escritório e, por consequencia, interromper a disponibilidade de estações de trabalho e outros dispositivos que fornecem dados essenciais ao negócio. Um outro exemplo é a disponibilidade sendo comprometida por atos de sabotagem, como ataques de negação de serviço (DoS) ou ransomware.
 
+Ademais, vale tratar de outros conceitos também importantes na área, como:
 
+- **Autenticidade**: tem como objetivo determinar uma validade para a transmissão tanto da mensagem quanto do remetente para que o destinatário possa comprovar a origem e autoria de um dado documento.
+- **Não-repúdio**: mencionado anteriormente na explicação da integridade, busca assegurar que o autor seja impossibilitado de negar a sua criação e assinatura em um documento.
+- **Irretroatividade**: diz respeito a concepção de que novas políticas, leis ou mudanças de normas de segurança não devem ter implicações em eventos passados, ou seja, garante que o sistema não permita a confecção de documentos de forma retroativa no tempo.
 
 ## Principais Ameaças à Segurança da Informação
 
