@@ -1,5 +1,5 @@
 # Introdução Geral sobre InfoSec
-Observação: este texto foi escrito para um trabalho universitário da disciplina Novas Mídias da UFRJ em 2024.2 por mim, então não espere um texto muito profundo ou específico sobre a área aqui.
+Observação: este texto foi escrito  por mim para um trabalho universitário da disciplina Novas Mídias da UFRJ, em 2024.2, então não espere um texto muito profundo ou específico sobre a área aqui.
 
 ## O que é Segurança da Informação (ou InfoSec)
 
