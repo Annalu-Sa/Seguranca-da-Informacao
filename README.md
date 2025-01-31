@@ -2,7 +2,7 @@
  Neste repositório irei colocar minha jornada de conhecimento referente a área Segurança da Informação.
 
  ### Sumário
- 1. Primeiros Passos
+ 1. Visão Geral
     - Introdução Geral sobre InfoSec
     - 
     - O que é Segurança da Informação
