@@ -4,13 +4,7 @@
  ### Sumário
  1. Visão Geral
     - Introdução Geral sobre InfoSec
-    - 
-    - O que é Segurança da Informação
-    - Importância
-    - Pilares da Segurança da Informação
-    - Principais Ameaças à Segurança da Informação
-    - Técnicas e Ferramentas de Proteção
-    - Educação, Consciencialização e Certificação
+    - Hacker's Roadmap 2025
  2. Fundamentos da Tecnologia da Informação
     - Redes de Computadores
     - Sistemas Operacionais
