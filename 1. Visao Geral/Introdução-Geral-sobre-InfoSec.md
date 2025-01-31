@@ -67,7 +67,7 @@ Desta forma, algumas de suas funções são:
 
 A confidencialidade, integridade e disponibilidade são imprescindíveis para a operação de um negócio e o modelo CID segmenta essas ideias em pontos focais separados, a sua diferenciação é útil na orientação de equipes de segurança à medida que eles compreendem melhor suas especificidades e são capazes de identificar diversas formas pelas quais se pode abordar cada obstáculo.
 
-[](TriadeCID.png)
+[](Downloads/TriadeCID.png)
 
 
 ## Principais Ameaças à Segurança da Informação
