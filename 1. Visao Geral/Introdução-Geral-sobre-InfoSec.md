@@ -67,7 +67,23 @@ Desta forma, algumas de suas funções são:
 
 A confidencialidade, integridade e disponibilidade são imprescindíveis para a operação de um negócio e o modelo CID segmenta essas ideias em pontos focais separados, a sua diferenciação é útil na orientação de equipes de segurança à medida que eles compreendem melhor suas especificidades e são capazes de identificar diversas formas pelas quais se pode abordar cada obstáculo.
 
-[](Downloads/TriadeCID.png)
+![image](https://github.com/user-attachments/assets/691ce92e-5056-4839-b8b8-90ffaa811a9f)
+
+Em detalhes, temos:
+
+
+- **Integridade**: 
+Ela garante que os dados, se autênticos, sejam confiáveis e livres de adulteração. Desta forma, se uma empresa fornece informações sobre colaboradores em seu site, essas informações precisam ter integridade. Além disso, uma pessoa com interesse em prejudicar a reputação da empresa pode tentar hackear seu site e alterar as descrições, ou quaisquer dados.
+Comprometer a integridade geralmente é feito intencionalmente. Sob este viés um invasor é capaz de ignorar um sistema de detecção de intrusão (IDS), modificar configurações de arquivos ou alterar os registros mantidos pelo sistema para ocultar um ataque. Uma forma de verificar a integridade é o chamado ‘não repúdio’, que será tratado posteriormente.
+
+- **Confidencialidade**: 
+A confidencialidade abrange os esforços de uma corporação para garantir que os dados sejam mantidos em sigilo ou privados e, para isso, o alcance às informações deve ser controlado. Ademais, uma peça importante da manutenção da confidencialidade é assegurar que indivíduos sem autorização sejam impossibilitados de acessar ativos importantes para o negócio em questão.
+Posto isto, para combater violações de confidencialidade, a empresa pode classificar e rotular dados restritos, habilitar políticas de controle de acesso, criptografar dados e usar sistemas de autenticação multifator (MFA). Vale mencionar também que é interessante garantir aos/às colaboradoras da organização o treinamento e o conhecimento necessários para reconhecer os perigos e evitá-los.
+
+- **Disponibilidade**: 
+A disponibilidade diz que os dados perdem seu valor quando não estão disponíveis para os colaboradores e/ou clientes usarem. Dessa forma, os sistemas, redes e aplicativos devem funcionar como previstos. Ademais, os indivíduos com acesso a informações específicas devem conseguir acessar estes dados quando for necessário e com um tempo aceitável a fim de não atrasar as operações da organização.
+Assim, desastres naturais são um dos maiores obstáculos da disponibilidade, pois não é previsível e pode impedir que os usuários cheguem ao escritório e, por consequencia, interromper a disponibilidade de estações de trabalho e outros dispositivos que fornecem dados essenciais ao negócio. Um outro exemplo é a disponibilidade sendo comprometida por atos de sabotagem, como ataques de negação de serviço (DoS) ou ransomware.
+
 
 
 ## Principais Ameaças à Segurança da Informação
